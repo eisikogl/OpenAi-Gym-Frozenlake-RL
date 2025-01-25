@@ -3,6 +3,14 @@ OpenAI gym frozenlake AI RL project
 
 This Project is using Python 3.10.11
 
+How to Install:
+1. Clone Project
+2. Create Virtual Environment  ``` python3.10 -m venv myenvname```
+3. Activate Env windows: ``` myenvname\Scripts\activate ```
+4. Install requirements:  ```pip install -r requirements.txt```
+5. Change main run(```How many times to train```,```False to stop Updating Q-table```, ```True to show Simulation```)-> run(15000, is_training=True, render=False)
+6. run: ```python validate.py```
+
 # Python Commands for Virtual Environment Setup and Reinstallation
 
 
