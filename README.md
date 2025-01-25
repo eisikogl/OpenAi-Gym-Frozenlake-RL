@@ -1,4 +1,4 @@
-# gym-Snake
+# gymnasium frozenlake RL 
 OpenAI gym snake project
 
 This Project is using Python 3.10.11
